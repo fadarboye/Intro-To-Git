@@ -10,7 +10,6 @@
 To give you a basic introduction to using Git via the Ubuntu terminal, I'll outline the steps to get started with creating a new Git repository, making changes, committing those changes, and pushing them to a remote repository.
 
 
-
 ## Using Ubuntu Terminal for Git
 
 - Step 1: Install Git
@@ -18,22 +17,20 @@ To give you a basic introduction to using Git via the Ubuntu terminal, I'll outl
 ```sh
 sudo apt-get install git
 ```
-
-<br/><br/>
+<br/>
 
 - Step 2: Run `git config` to set-up email and user name
 
 ```sh
 git config --global init.defaultBranch 'Name'
-```
-```sh
 git config --global user.name "Name"
 ```
+
 ```sh
 git config --global "Email"
 ```
 
-<br/><br/>
+<br/>
 
 
 - Step 3: List the User name and Email
