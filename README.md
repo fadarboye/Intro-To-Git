@@ -23,8 +23,17 @@ sudo apt-get install git
 - Step 2: Running git config to set email and user name
 
 ```sh
-git config --global init.defaultBranch adeboye
-git config --global user.name "Adeboye"
-git config --global afamurewa@microsoft.com
+git config --global init.defaultBranch 'Name'
+git config --global user.name "Name"
+git config --global "Email"
 git config --list
 ```
+<br/>
+
+- Step 3: Running git config to set email and user name
+
+```sh
+git config --list
+```
+
+[![Launch Cloud Shell](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/launchcloudshell.png "Launch Cloud Shell")](https://shell.azure.com/bash)
