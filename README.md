@@ -35,5 +35,3 @@ git config --list
 ```sh
 git config --list
 ```
-
-
