@@ -18,17 +18,23 @@ To give you a basic introduction to using Git via the Ubuntu terminal, I'll outl
 ```sh
 sudo apt-get install git
 ```
-<br/>
+
+<br/><br/>
 
 - Step 2: Run `git config` to set-up email and user name
 
 ```sh
 git config --global init.defaultBranch 'Name'
-git config --global user.name "Name"
-git config --global "Email"
-git config --list
 ```
-<br/>
+```sh
+git config --global user.name "Name"
+```
+```sh
+git config --global "Email"
+```
+
+<br/><br/>
+
 
 - Step 3: List the User name and Email
 
