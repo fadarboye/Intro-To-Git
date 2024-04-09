@@ -5,7 +5,7 @@
 
 # Creating a File
 
-Certainly! To create a file on GitHub, follow these steps: and we will  be create a index.html
+Certainly! To create a file on GitHub, follow these steps: We will be creating a index.html
 
 ## Create a index.html
 
