@@ -9,40 +9,29 @@ Certainly! To create a file on GitHub, follow these steps: and we will  be creat
 
 ## Create a index.html
 
-- Navigate to Your Repository:
+- Run the command below:
 
-Go to the GitHub repository where you want to create the file.
-
-<br/>
-
-- Click on “Add File”:
-   
-Click the “Add file” button, which is usually located near the top-right corner of the repository page.
-
-<br/>
-
-- Choose “Create New File”:
-   
-Select “Create new file” from the dropdown menu.
+```sh
+touch index.html
+ls
+git status
+```
+---
 
 <br/>
 
-- Provide a File Name and Content:
-   
-Enter a file name (including the file extension, Example  `my-file.txt`,  and `index.html` 
-   
-Add the content you want in the file (if any).
-
+- Track the file index.html
+```sh
+git add .
+git status
+```   
+---
 <br/>
 
-
-- Commit Changes:
+- Committing your file
    
-Scroll down to the “Commit new file” section.
-   
-Add a commit message (Example Create `index.html`)
-   
-Choose whether to commit directly to the main branch or create a new branch.
-
-
-
+```sh
+git commit -m "create an empty index.html file"
+git log
+Git status
+```
