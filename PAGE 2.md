@@ -9,7 +9,7 @@ Certainly! To create a Directory on GitHub, follow these steps:
 
 ## Create a Cats
 
-- Run the command below:
+- Run the command below line by line:
 
 ```sh
 mkdir Cats
