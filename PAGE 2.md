@@ -5,27 +5,27 @@
 
 # Creating a Directory
 
-Certainly! To create a file on GitHub, follow these steps: We will be creating a index.html
+Certainly! To create a Directory on GitHub, follow these steps:
 
-## Create a index.html
+## Create a Cats
 
 - Run the command below:
 
 ```sh
-touch index.html
-ls
-git status
+mkdir Cats
+cd Cats
+git init
 ```
----
 
+## Create a file
 <br/>
 
 - Track the file index.html
 ```sh
-git add .
+touch index.html
+Ls
 git status
 ```   
----
 <br/>
 
 - Committing your file
