@@ -5,7 +5,7 @@
 
 # Creating a Directory 
 
-Certainly! To create a Directory on GitHub, follow these steps:
+To create a Directory on your local device, you will need to follow these steps:
 
 ## Create a Cats 📂
 
@@ -16,10 +16,11 @@ mkdir Cats
 cd Cats
 git init
 ```
+<br/>
 
-![alt text](image.png)
+![Screenshot 2024-04-13 001352](https://github.com/fadarboye/Intro-To-Git/assets/130584349/a25f255e-47db-45f8-a931-a669c8c61af4)
 
-![alt text](<Screenshot 2024-04-02 094227.png>)
+<br/>
 
 ## Create a file 📃
 
@@ -29,7 +30,9 @@ touch index.html
 Ls
 git status
 ```   
+<br/>
 
+![Screenshot 2024-04-02 094227](https://github.com/fadarboye/Intro-To-Git/assets/130584349/3237c6d9-8cdd-4039-b57a-ad8f6ffe59e7)
 
 - Commit your file
    
