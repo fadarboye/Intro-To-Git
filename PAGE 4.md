@@ -17,14 +17,14 @@ git add README.md
 ```
 <br/>
 
-- Step 2: `Track` the file index.html
+- Step 2: Track the file index.html
 ```sh
 git add .
 git status
 ```   
 <br/>
 
-- Step 3: `Commit` your file
+- Step 3: Commit your file
    
 ```sh
 git commit -m "create an empty README.md"

@@ -25,9 +25,9 @@ touch index.html
 Ls
 git status
 ```   
-<br/>
 
-- `Commit` your file
+
+- Commit your file
    
 ```sh
 git commit -m "create an empty index.html file"
