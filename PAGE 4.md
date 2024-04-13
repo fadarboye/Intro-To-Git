@@ -5,7 +5,7 @@
 
 # Creating a README.md
 
-To create a `README.md` on GitHub, follow these steps: We will be creating a index.html
+### To create a `README.md` on GitHub, follow these steps:
 
 #### Creating the `README.md`
 
