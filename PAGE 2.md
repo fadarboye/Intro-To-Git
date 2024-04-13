@@ -3,35 +3,38 @@
 
 ![](https://img.shields.io/badge/Follow%20%ad-1.4k-blue?logo=linkedin&style=social "Follow in/Adeboye on LinkedIn") 
 
-# Creating a Directory
 
-Certainly! To create a Directory on GitHub, follow these steps:
+# INTRO TO GIT
 
-## Create a Cats
 
-- Run the command below line by line:
+To give you a basic introduction to using Git via the Ubuntu terminal, I'll outline the steps to get started with creating a new Git repository, making changes, committing those changes, and pushing them to a remote repository.
+
+
+## Using Ubuntu Terminal for Git
+
+- Step 1: Install Git
 
 ```sh
-mkdir Cats
-cd Cats
-git init
+sudo apt-get install git
+```
+<br/>
+
+- Step 2: Run `git config` to set-up email and user name
+
+```sh
+git config --global init.defaultBranch 'Name'
+git config --global user.name "Name"
 ```
 
-## Create a file
+```sh
+git config --global "Email"
+```
+
 <br/>
 
-- Track the file index.html
-```sh
-touch index.html
-Ls
-git status
-```   
-<br/>
 
-- Committing your file
-   
+- Step 3: List the User name and Email
+
 ```sh
-git commit -m "create an empty index.html file"
-git log
-Git status
+git config --list
 ```

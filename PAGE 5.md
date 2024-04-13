@@ -2,3 +2,25 @@
 <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 ![](https://img.shields.io/badge/Follow%20%ad-1.4k-blue?logo=linkedin&style=social "Follow in/Adeboye on LinkedIn") 
+
+# Push your Directory to GitHub Reporsitory
+
+To create a `Push` on GitHub, follow these steps below
+
+- Step 1: Run the command below to add the Origin:
+
+```sh
+git remote add origin https://github.com/user/Cats
+git remote -v
+```
+
+- Step 2: `Push` the directory to your Github Repository
+
+```sh
+git push -u origin `Branch name`
+git push origin `Branch name`
+```
+#####Example - git push origin `main`
+
+
+

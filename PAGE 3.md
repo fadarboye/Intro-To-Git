@@ -3,32 +3,31 @@
 
 ![](https://img.shields.io/badge/Follow%20%ad-1.4k-blue?logo=linkedin&style=social "Follow in/Adeboye on LinkedIn") 
 
-# Creating a File
+# Creating a Directory 
 
-Certainly! To create a file on GitHub, follow these steps: We will be creating a index.html
+Certainly! To create a Directory on GitHub, follow these steps:
 
-## Create a index.html
+## Create a Cats 📂
 
-- Run the command below:
+- Run the command below line by line:
 
+```sh
+mkdir Cats
+cd Cats
+git init
+```
+
+## Create a file 📃
+
+- Track the file `index.html`
 ```sh
 touch index.html
-ls
-git status
-```
----
-
-<br/>
-
-- Track the file index.html
-```sh
-git add .
+Ls
 git status
 ```   
----
 <br/>
 
-- Committing your file
+- `Commit` your file
    
 ```sh
 git commit -m "create an empty index.html file"
