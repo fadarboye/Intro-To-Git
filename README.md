@@ -13,3 +13,5 @@ To give you a basic introduction to using Git via the Ubuntu terminal, I'll outl
 My goal is to share in a pratical how you can use Ubuntu teminal locally on your device to to create a Directory and Put is to your GitHub Repository 
 in a well structured way
 
+![alt text](<Screenshot 2024-04-05 163625.png>)
+![alt text](<Screenshot 2024-04-05 164929.png>)

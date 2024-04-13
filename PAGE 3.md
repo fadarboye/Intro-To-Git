@@ -17,6 +17,10 @@ cd Cats
 git init
 ```
 
+![alt text](image.png)
+
+![alt text](<Screenshot 2024-04-02 094227.png>)
+
 ## Create a file 📃
 
 - Track the file `index.html`
@@ -34,3 +38,4 @@ git commit -m "create an empty index.html file"
 git log
 Git status
 ```
+
