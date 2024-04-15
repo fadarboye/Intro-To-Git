@@ -1,4 +1,3 @@
-
 <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 ![](https://img.shields.io/badge/Follow%20%ad-1.4k-blue?logo=linkedin&style=social "Follow in/Adeboye on LinkedIn") 
@@ -8,7 +7,7 @@
 
 # INTRO TO GIT
 
-This repository (or "repo") is designed to demonstrate basic introduction to using **Git** via your ubuntu terminal, I'll outline the steps to get started with creating a new git repository, making changes, committing those changes, and pushing them to a remote repository.
+This repository is designed to demonstrate basic introduction to using *Git* via your ubuntu terminal, I'll outline the steps to get started with creating a new git repository, making changes, committing those changes, and pushing them to a remote repository.
 
 My goal is to share with you pratical steps on how to use Ubuntu teminal locally on your device to create
 
@@ -19,12 +18,12 @@ My goal is to share with you pratical steps on how to use Ubuntu teminal locally
 5.  And
 6. **Push** your `Directory` to your `GitHub Repository` in a well structured way 
 
+You can download [Ubuntu](https://ubuntu.com/download) if you do not have it on your device and proceed with the Exercise below.
+
+<br/>
 
 
-
-# [➡Start Here](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%201.md)
-
-
+# [➡Start Here](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%201.md)   
 
 
 
