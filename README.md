@@ -8,7 +8,7 @@
 
 # INTRO TO GIT
 
-Giving you a basic introduction to using **Git** via your ubuntu terminal, I'll outline the steps to get started with creating a new git repository, making changes, committing those changes, and pushing them to a remote repository.
+This repository (or "repo") is designed to demonstrate basic introduction to using **Git** via your ubuntu terminal, I'll outline the steps to get started with creating a new git repository, making changes, committing those changes, and pushing them to a remote repository.
 
 My goal is to share with you pratical steps on how to use Ubuntu teminal locally on your device to create
 
