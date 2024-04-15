@@ -23,11 +23,11 @@ sudo apt-get install git
 
 ```sh
 git config --global init.defaultBranch 'Name'
-git config --global user.name "Name"
 ```
 
 ```sh
 git config --global "Email"
+git config --global user.name "Name"
 ```
 
 <br/>
