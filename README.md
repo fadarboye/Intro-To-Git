@@ -22,7 +22,7 @@ My goal is to share with you pratical steps on how to use Ubuntu teminal locally
 
 
 
-# [Start Here](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%202.md#using-ubuntu-terminal-for-git)
+# [➡Start Here](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%201.md)
 
 
 
