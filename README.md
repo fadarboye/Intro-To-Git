@@ -7,7 +7,7 @@
 
 # INTRO TO GIT
 
-This repository is designed to demonstrate basic introduction to using *Git* via your ubuntu terminal, I'll outline the steps to get started with creating a new git repository, making changes, committing those changes, and pushing them to a remote repository.
+This repository is designed to demonstrate basic introduction to *Git* using windons subsystem for linux and ubuntu terminal on your device, I'll outline the steps to get started with creating a new git repository, making changes, committing those changes, and pushing them to a remote repository.
 
 My goal is to share with you pratical steps on how to use Ubuntu teminal locally on your device to create
 
@@ -16,7 +16,7 @@ My goal is to share with you pratical steps on how to use Ubuntu teminal locally
 3. Commit
 4. Track
 5.  And
-6. **Push** your `Directory` to your `GitHub Repository` in a well structured way 
+6. **Push** your `Directory` to your `GitHub Repository` in a well structured way. 
 
 You can download [Ubuntu](https://ubuntu.com/download) if you do not have it on your device and proceed with the exercise below.
 
