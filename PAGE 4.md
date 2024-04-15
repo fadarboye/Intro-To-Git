@@ -26,7 +26,7 @@ git push origin `Branch name`
 
 <br/>
 
-## [CLICK HERE TO GET CREDIT🏆](https://github.com/fadarboye/Intro-To-Git/blob/fadarboye-patch-1/CREDIT%20PAGE.md)
+## [CLICK HERE TO GET CREDIT🏆](https://github.com/fadarboye/Intro-To-Git/blob/main/CREDIT%20PAGE)
 
 
 
