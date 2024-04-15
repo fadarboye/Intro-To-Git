@@ -5,9 +5,10 @@
 
 # Creating a README.md
 
+
 ### To create a `README.md` on GitHub, follow these steps:
 
-#### Creating the `README.md`
+Creating the `README.md`
 
 - Step 1: Run the command below:
 
