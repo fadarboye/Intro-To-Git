@@ -8,7 +8,7 @@
 
 # INTRO TO GIT
 
-Giving you a basic introduction to using Git via your Ubuntu terminal, I'll outline the steps to get started with creating a new Git repository, making changes, committing those changes, and pushing them to a remote repository.
+Giving you a basic introduction to using **Git** via your ubuntu terminal, I'll outline the steps to get started with creating a new git repository, making changes, committing those changes, and pushing them to a remote repository.
 
 My goal is to share with you pratical steps on how to use Ubuntu teminal locally on your device to create
 
@@ -16,7 +16,13 @@ My goal is to share with you pratical steps on how to use Ubuntu teminal locally
 2. Files
 3. Commit
 4. Track
-5.  And `Push` your Directory to your GitHub Repository in a well structured way
+5.  And
+6. **Push** your `Directory` to your `GitHub Repository` in a well structured way 
+
+
+
+
+# [Start Here](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%202.md#using-ubuntu-terminal-for-git)
 
 
 
