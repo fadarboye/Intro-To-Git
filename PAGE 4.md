@@ -3,6 +3,7 @@
 
 ![](https://img.shields.io/badge/Follow%20%ad-1.4k-blue?logo=linkedin&style=social "Follow in/Adeboye on LinkedIn") 
 
+
 # Push your Directory to GitHub Reporsitory
 
 To create a `Push` on GitHub, follow these steps below
@@ -13,6 +14,7 @@ To create a `Push` on GitHub, follow these steps below
 git remote add origin https://github.com/user/Cats
 git remote -v
 ```
+<br/>
 
 - Step 2: `Push` the directory to your Github Repository
 
