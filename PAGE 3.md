@@ -30,7 +30,7 @@ git status
 ```sh
 git commit -m "create an empty README.md"
 git log
-Git status
+git status
 ```
 <br/>
 
