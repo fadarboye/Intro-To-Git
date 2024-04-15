@@ -20,7 +20,11 @@ git remote -v
 git push -u origin `Branch name`
 git push origin `Branch name`
 ```
-#####Example - git push origin `main`
+
+
+<br/>
+
+## CLICK HERE TO GET CREDIT
 
 
 
