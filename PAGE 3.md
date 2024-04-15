@@ -31,3 +31,6 @@ git commit -m "create an empty README.md"
 git log
 Git status
 ```
+<br/>
+
+## [➡CLICK HERE TO CONTINUE](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%204.md)
