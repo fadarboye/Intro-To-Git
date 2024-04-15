@@ -18,7 +18,7 @@ My goal is to share with you pratical steps on how to use Ubuntu teminal locally
 5.  And
 6. **Push** your `Directory` to your `GitHub Repository` in a well structured way 
 
-You can download [Ubuntu](https://ubuntu.com/download) if you do not have it on your device and proceed with the Exercise below.
+You can download [Ubuntu](https://ubuntu.com/download) if you do not have it on your device and proceed with the exercise below.
 
 <br/>
 
