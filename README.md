@@ -7,7 +7,7 @@
 
 # INTRO TO GIT
 
-This repository is designed to demonstrate basic introduction to *Git* using windons subsystem for linux and ubuntu terminal on your device, I'll outline the steps to get started with creating a new git repository, making changes, committing those changes, and pushing them to a remote repository.
+This repository is designed to demonstrate basic introduction to *Git* using windows subsystem for linux and ubuntu terminal on your device, I'll outline the steps to get started with creating a new git repository, making changes, committing those changes, and pushing them to a remote repository.
 
 My goal is to share with you pratical steps on how to use Ubuntu teminal locally on your device to create
 
