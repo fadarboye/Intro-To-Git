@@ -39,4 +39,4 @@ git config --global "Email"
 git config --list
 ```
 
-# [PAGE 3](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%202.md#using-ubuntu-terminal-for-git)
+# [PAGE 2](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%202.md#using-ubuntu-terminal-for-git)
