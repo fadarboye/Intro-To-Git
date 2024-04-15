@@ -44,5 +44,5 @@ Git status
 
 <br/>
 
-## [CLICK HERE TO CONTINUE](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%203.md)
+## [➡CLICK HERE TO CONTINUE](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%203.md)
 
