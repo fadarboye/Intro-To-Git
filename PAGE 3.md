@@ -42,3 +42,5 @@ git log
 Git status
 ```
 
+# [PAGE 3](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%202.md#using-ubuntu-terminal-for-git)
+
