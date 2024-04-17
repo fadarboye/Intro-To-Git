@@ -25,5 +25,4 @@ You can download [Ubuntu](https://ubuntu.com/download) if you do not have it on 
 # [➡Start Here](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%201.md)   
 
 
-
-
+[![Stargazers repo roster for @fadarboye/Intro-To-Git](https://reporoster.com/stars/dark/fadarboye/Intro-To-Git)](https://github.com/fadarboye/Intro-To-Git/stargazers)  [![Forkers repo roster for @fadarboye/Intro-To-Git](https://reporoster.com/forks/dark/fadarboye/Intro-To-Git)](https://github.com/fadarboye/Intro-To-Git/network/members)
