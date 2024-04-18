@@ -14,9 +14,9 @@ To give you a basic introduction to using Git via the Ubuntu terminal, I'll outl
 
 - Step 1: Install Git
 
-  Open your install Ubuntu terminal
+  Open your installed Ubuntu terminal
 
-  ![Screenshot 2024-04-15 110741](https://github.com/fadarboye/Intro-To-Git/assets/130584349/ecf5938c-50c9-449f-aed3-f50d4a1f72f6)
+![Screenshot 2024-04-16 081404](https://github.com/fadarboye/Intro-To-Git/assets/130584349/411dcb3f-c02d-436e-a8c3-55ecb47782fa)
 
 <br/>
 

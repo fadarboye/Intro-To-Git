@@ -14,11 +14,25 @@ To create a Directory on your local device, you will need to follow these steps:
 ```sh
 mkdir Cats
 cd Cats
-git init
 ```
 <br/>
 
 ![Screenshot 2024-04-13 001352](https://github.com/fadarboye/Intro-To-Git/assets/130584349/a25f255e-47db-45f8-a931-a669c8c61af4)
+
+
+<br/>
+
+
+- Run the command below for .git 📂
+  
+  
+```sh
+git init
+```
+<br/>
+
+![Screenshot 2024-04-15 160249](https://github.com/fadarboye/Intro-To-Git/assets/130584349/19e89b8b-d882-499a-90bf-a55d4a3f7237)
+
 
 <br/>
 
