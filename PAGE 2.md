@@ -53,7 +53,7 @@ git status
 ```sh
 git commit -m "create an empty index.html file"
 git log
-Git status
+git status
 ```
 
 <br/>
