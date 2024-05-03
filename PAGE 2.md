@@ -41,7 +41,7 @@ git init
 - Track the file `index.html`
 ```sh
 touch index.html
-Ls
+ls
 git status
 ```   
 <br/>
