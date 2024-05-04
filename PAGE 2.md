@@ -41,7 +41,7 @@ git init
 - Track the file `index.html`
 ```sh
 touch index.html
-Ls
+ls
 git status
 ```   
 <br/>
@@ -53,7 +53,7 @@ git status
 ```sh
 git commit -m "create an empty index.html file"
 git log
-Git status
+git status
 ```
 
 <br/>

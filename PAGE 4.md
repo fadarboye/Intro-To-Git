@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Follow%20%ad-1.4k-blue?logo=linkedin&style=social "Follow in/Adeboye on LinkedIn") 
 
 
-# Push your Directory to GitHub Reporsitory
+# Push your Directory to GitHub Reporsitory.
 
 To create a `Push` on GitHub, follow these steps below
 
