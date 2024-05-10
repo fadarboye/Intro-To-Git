@@ -1,5 +1,8 @@
 # LINKS
 
+
+# [➡Start Here](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%201.md)   
+
 ##1
 ## [➡ CLICK HERE TO CONTINUE](https://github.com/fadarboye/Intro-To-Git/blob/main/PAGE%202.md#using-ubuntu-terminal-for-git)
 
